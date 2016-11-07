@@ -1,0 +1,1 @@
+select no, email, name from users where email='qkrwngks91@nate.com';
